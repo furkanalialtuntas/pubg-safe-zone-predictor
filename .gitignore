@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Model & generated data
+model.pkl
+data_augmented.csv
+
+# IDE
+.vscode/
